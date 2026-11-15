@@ -1,0 +1,5004 @@
+{
+  "schema_version": 2,
+  "events": [
+    {
+      "id": "evt001",
+      "name": "Belleville Santa Parade",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Parades",
+        "Community"
+      ],
+      "time": "10 AM",
+      "url": "https://www.belleville.net/586/Holiday-Events",
+      "notes": "",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "event_type": "special"
+    },
+    {
+      "id": "evt002",
+      "name": "Belleville Fountain Lighting",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Lights",
+        "Community"
+      ],
+      "time": "6 PM",
+      "url": "https://www.belleville.net/586/Holiday-Events",
+      "notes": "",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "event_type": "special"
+    },
+    {
+      "id": "evt003",
+      "name": "Belleville Santa on the Square",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Family",
+        "Community"
+      ],
+      "time": "Hours vary",
+      "url": "https://www.belleville.net/586/Holiday-Events",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-11-27",
+      "end": "2026-12-24",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt004",
+      "name": "Belleville Christkindlmarkt",
+      "city": "Belleville",
+      "venue": "Belleville Public Square",
+      "categories": [
+        "European & Heritage Christmas",
+        "Markets",
+        "Food & Drink"
+      ],
+      "time": "Thu–Sun; hours vary",
+      "url": "https://explorebelleville.net/event/belleville-christkindlmarkt-2026/2026-11-29/",
+      "notes": "Free admission. German-style holiday market; opening-day hours differ.",
+      "source_status": "Official 2026 tourism schedule",
+      "start": "2026-11-27",
+      "end": "2026-12-23",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt005",
+      "name": "Belleville Horse-Drawn Trolley Rides",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "Family"
+      ],
+      "time": "Weekends; hours vary",
+      "url": "https://www.belleville.net/586/Holiday-Events",
+      "notes": "",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-11-27",
+      "end": "2026-12-20",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt006",
+      "name": "Belleville Gingerbread 5K",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Community",
+        "Family"
+      ],
+      "time": "8–10:30 AM",
+      "url": "https://www.belleville.net/586/Holiday-Events",
+      "notes": "",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt007",
+      "name": "Belleville Downtown Cookie Stroll",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Food & Drink",
+        "Community"
+      ],
+      "time": "10 AM–5 PM",
+      "url": "https://www.belleville.net/586/Holiday-Events",
+      "notes": "",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-12-11",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt008",
+      "name": "Old Belleville Historical Luminary Walk",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "Lights"
+      ],
+      "time": "Hours TBA",
+      "url": "https://www.belleville.net/586/Holiday-Events",
+      "notes": "",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt009",
+      "name": "Winterfest at Kiener Plaza",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Lights",
+        "Family",
+        "Community"
+      ],
+      "time": "Thu–Fri 4–8 PM; Sat–Sun noon–8 PM",
+      "url": "https://www.archpark.org/events/winterfest",
+      "notes": "Free general admission. Skating rentals and some activities cost extra. Closed Thanksgiving and Christmas Day.",
+      "source_status": "Official 2026 Winterfest schedule",
+      "start": "2026-11-21",
+      "end": "2027-01-03",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt010",
+      "name": "A Spirited Holiday Past: Historic Sites Tour",
+      "city": "Greater St. Louis",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "European & Heritage Christmas"
+      ],
+      "time": "10 AM–4 PM",
+      "url": "https://www.historicsaintlouis.org/a-spirited-holiday-past/",
+      "notes": "Multiple historic properties participate; check individual site accessibility.",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt011",
+      "name": "Millstadt Weihnachtsfest",
+      "city": "Millstadt, IL",
+      "venue": "St. James Parish Center, 423 W Madison St",
+      "categories": [
+        "European & Heritage Christmas",
+        "Food & Drink",
+        "Markets",
+        "Parades"
+      ],
+      "time": "10 AM–3:30 PM; St. Nikolaus parade noon",
+      "url": "https://millstadt-sister-cities.squarespace.com/youth-program-1",
+      "notes": "Sauerbraten, schnitzel, bratwurst, strudel, German music, crafts. Ellen’s special pick!",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt012",
+      "name": "Francis Howell Band Craft Fair",
+      "city": "St. Charles",
+      "venue": "",
+      "categories": [
+        "School Craft Fairs",
+        "Markets"
+      ],
+      "time": "",
+      "url": "https://www.thecraftmap.com/fairs/missouri/saint-charles/holiday-craft-fairs",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by event directory",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt013",
+      "name": "Duchesne Craft Fair",
+      "city": "St. Charles",
+      "venue": "",
+      "categories": [
+        "School Craft Fairs",
+        "Markets"
+      ],
+      "time": "",
+      "url": "https://www.thecraftmap.com/fairs/missouri/saint-charles/holiday-craft-fairs",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by event directory",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "evt014",
+      "name": "Weirdly Wonderful Holidays at City Museum",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Family",
+        "Lights",
+        "Museums"
+      ],
+      "time": "",
+      "url": "https://explorestlouis.com/events/category/holiday-fun/list/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by tourism site",
+      "start": "2026-11-19",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt015",
+      "name": "Union Christmas Block Party",
+      "city": "Union",
+      "venue": "",
+      "categories": [
+        "Community",
+        "Family"
+      ],
+      "time": "5–8 PM",
+      "url": "https://fun4stlkids.com/Whats-Happening/Holiday-Events/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by event directory",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "event_type": "special"
+    },
+    {
+      "id": "evt016",
+      "name": "Festival of Lights at Kiener Plaza",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Lights",
+        "Community"
+      ],
+      "time": "5:30 PM",
+      "url": "https://www.archpark.org/events/winterfest",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by tourism site",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "evt017",
+      "name": "WonderLight’s Christmas Drive-Through",
+      "city": "Madison, IL",
+      "venue": "",
+      "categories": [
+        "Lights",
+        "Family"
+      ],
+      "time": "",
+      "url": "https://www.wonderlightschristmas.com/st-louis",
+      "notes": "$35 per vehicle (up to 8 passengers); drive-through synchronized lights. Open nightly including holidays.",
+      "source_status": "Official 2026 organizer schedule",
+      "start": "2026-11-13",
+      "end": "2027-01-03",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt018",
+      "name": "St. Louis Zoo Wild Lights",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Lights",
+        "Family"
+      ],
+      "time": "5–8:30 PM",
+      "url": "https://www.firstalert4.com/2026/11/10/your-guide-holiday-events-around-st-louis/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by news source",
+      "start": "2026-11-27",
+      "end": "2026-12-30",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt019",
+      "name": "St. Louis Zoo Wild Lights Sensory Night",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Lights",
+        "Family"
+      ],
+      "time": "",
+      "url": "https://www.firstalert4.com/2026/11/10/your-guide-holiday-events-around-st-louis/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by news source",
+      "start": "2026-12-07",
+      "end": "2026-12-07",
+      "event_type": "special"
+    },
+    {
+      "id": "evt020",
+      "name": "Missouri Botanical Garden Garden Glow",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Lights",
+        "Family"
+      ],
+      "time": "",
+      "url": "https://www.missouribotanicalgarden.org/events-classes/signature-events/garden-glow",
+      "notes": "Paid admission; price varies by date. Select an available date and 30-minute entry slot; confirm availability before visiting.",
+      "source_status": "Official 2026 organizer schedule",
+      "start": "2026-11-14",
+      "end": "2027-01-02",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt021",
+      "name": "Cardinals Holiday Season Opener",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Family"
+      ],
+      "time": "11 AM–3 PM",
+      "url": "https://www.firstalert4.com/2026/11/10/your-guide-holiday-events-around-st-louis/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by news source",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "event_type": "special"
+    },
+    {
+      "id": "evt022",
+      "name": "Print Bazaar on Cherokee Street",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Arts & Workshops"
+      ],
+      "time": "11 AM–6 PM",
+      "url": "https://littlesweekly.com/st-louis/christmas-markets/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by event directory",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt023",
+      "name": "Frosted Holiday Pop-Up Market",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Markets"
+      ],
+      "time": "9 AM–1 PM",
+      "url": "https://littlesweekly.com/st-louis/christmas-markets/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by event directory",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "event_type": "special"
+    },
+    {
+      "id": "evt024",
+      "name": "Belleville Way of Lights",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Lights",
+        "Family"
+      ],
+      "time": "",
+      "url": "https://explorebelleville.net/holiday/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by tourism site",
+      "start": "2026-11-20",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt025",
+      "name": "Belleville Ainad Shriners FEZtival of Trees",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Community",
+        "Family"
+      ],
+      "time": "",
+      "url": "https://explorebelleville.net/holiday/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by tourism site",
+      "start": "2026-11-27",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt026",
+      "name": "Belleville Movie Night with Santa at Skyview",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Movies & Shows",
+        "Family"
+      ],
+      "time": "",
+      "url": "https://explorebelleville.net/holiday/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 listed by tourism site",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt027",
+      "name": "Belleville Brunch with Santa at Bennie’s",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Food & Drink",
+        "Family"
+      ],
+      "time": "9 AM",
+      "url": "https://www.bellevillemainstreet.net/events",
+      "notes": "",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt028",
+      "name": "Frost: A Holiday Cirque Show",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Movies & Shows"
+      ],
+      "time": "7:30 PM",
+      "url": "https://www.bellevillemainstreet.net/events",
+      "notes": "",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "event_type": "special"
+    },
+    {
+      "id": "evt029",
+      "name": "St. Charles Christmas Traditions",
+      "city": "St. Charles",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Historic",
+        "Community"
+      ],
+      "time": "Select days",
+      "url": "https://www.discoverstcharles.com/events/christmas-traditions/",
+      "notes": "Free historic Main Street Christmas celebration; special Wednesday carol strolls. Personal stop: 320 Sycamore Candle Co., 523 S Main St.",
+      "source_status": "Official 2026 festival schedule",
+      "start": "2026-11-27",
+      "end": "2026-12-24",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt030",
+      "name": "St. Charles Dickens Christmas Carol Stroll",
+      "city": "St. Charles",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "European & Heritage Christmas"
+      ],
+      "time": "Wednesdays 6–8:30 PM",
+      "url": "https://www.discoverstcharles.com/events/christmas-traditions/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-02",
+      "end": "2026-12-23",
+      "event_type": "special"
+    },
+    {
+      "id": "evt031",
+      "name": "St. Charles Krampus Karnival",
+      "city": "St. Charles",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Historic"
+      ],
+      "time": "Fridays 6–8:30 PM",
+      "url": "https://www.discoverstcharles.com/events/christmas-traditions/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-04",
+      "end": "2026-12-18",
+      "event_type": "special"
+    },
+    {
+      "id": "evt032",
+      "name": "A Very Peck Christmas",
+      "city": "St. Charles",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "Markets"
+      ],
+      "time": "Sat noon–8 PM; Sun noon–5 PM",
+      "url": "https://mostateparks.com/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt033",
+      "name": "Augusta Candlelight Christmas Walk",
+      "city": "Augusta",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "Lights",
+        "European & Heritage Christmas"
+      ],
+      "time": "5–9:30 PM; both Fridays",
+      "url": "https://www.discoverstcharles.com/blog/post/christmas-in-historic-missouri-wine-country/",
+      "notes": "Free general admission per local research.",
+      "source_status": "2026 schedule confirmed: Discover St. Charles 2026 event listing",
+      "start": "2026-12-04",
+      "end": "2026-12-11",
+      "event_type": "special"
+    },
+    {
+      "id": "evt034",
+      "name": "Augusta Holiday House Tour & Tea",
+      "city": "Augusta",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "Food & Drink"
+      ],
+      "time": "Afternoon",
+      "url": "https://augusta-chamber.org/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt035",
+      "name": "Bach to the Future Christmas Rocks",
+      "city": "Augusta",
+      "venue": "",
+      "categories": [
+        "Music & Shows"
+      ],
+      "time": "7–10 PM",
+      "url": "https://augusta-chamber.org/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt036",
+      "name": "Deutschheim Weihnachtsfest",
+      "city": "Hermann",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Historic",
+        "Food & Drink"
+      ],
+      "time": "Select weekends 10 AM–4 PM",
+      "url": "https://visithermann.com/christmas/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-05",
+      "end": "2026-12-13",
+      "event_type": "special"
+    },
+    {
+      "id": "evt037",
+      "name": "Hermann German Bake Sale",
+      "city": "Hermann",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Food & Drink"
+      ],
+      "time": "Select weekends",
+      "url": "https://visithermann.com/christmas/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-05",
+      "end": "2026-12-13",
+      "event_type": "special"
+    },
+    {
+      "id": "evt038",
+      "name": "Stone Hill Winery Kristkindl Markt",
+      "city": "Hermann",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Markets",
+        "Wineries & Breweries"
+      ],
+      "time": "Sat 10 AM–5 PM; Sun 10 AM–3 PM",
+      "url": "https://stonehillwinery.com/events/kristkindl-markt/",
+      "notes": "Free admission; indoor heated market; German food available.",
+      "source_status": "2026 schedule confirmed: Stone Hill Winery 2026 event announcement",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt039",
+      "name": "Hermann Holiday House Tour",
+      "city": "Hermann",
+      "venue": "",
+      "categories": [
+        "Historic"
+      ],
+      "time": "See organizer",
+      "url": "https://visithermann.com/christmas/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt040",
+      "name": "Hermann Christmas Trolley Tours",
+      "city": "Hermann",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "European & Heritage Christmas"
+      ],
+      "time": "Fridays 6 PM",
+      "url": "https://visithermann.com/christmas/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-04",
+      "end": "2026-12-18",
+      "event_type": "special"
+    },
+    {
+      "id": "evt041",
+      "name": "Hermann Holiday Fare Wine Trail",
+      "city": "Hermann",
+      "venue": "",
+      "categories": [
+        "Wineries & Breweries",
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "https://hermannwinetrail.com/wine-trail-events/holiday-fare-wine-trail/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "event_type": "special"
+    },
+    {
+      "id": "evt042",
+      "name": "Maeystown Old-Fashioned German Christmas",
+      "city": "Maeystown, IL",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Historic",
+        "Markets"
+      ],
+      "time": "11 AM–4 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt043",
+      "name": "Alton Victorian Christmas with Haunted Twist",
+      "city": "Alton, IL",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "European & Heritage Christmas"
+      ],
+      "time": "2–8 PM",
+      "url": "https://www.riversandroutes.com/events/downtown-alton-christmas-market/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt044",
+      "name": "Alton Spirits of Christmas Dinner Tour",
+      "city": "Alton, IL",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "https://dinnerandspirits.com/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "event_type": "special"
+    },
+    {
+      "id": "evt045",
+      "name": "Alton Dark Side of Christmas Ghost Stories",
+      "city": "Alton, IL",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "Oddities"
+      ],
+      "time": "7 PM",
+      "url": "https://dinnerandspirits.com/evening-with-the-spirits-of-christmas",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt046",
+      "name": "Kimmswick Old-Fashioned Christmas Festival",
+      "city": "Kimmswick",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "Markets",
+        "Community"
+      ],
+      "time": "See organizer",
+      "url": "https://www.gokimmswick.com/kimmswick-holiday-2026/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-04",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt047",
+      "name": "Kimmswick Christmas Open House & Parade",
+      "city": "Kimmswick",
+      "venue": "",
+      "categories": [
+        "Parades",
+        "Historic",
+        "Community"
+      ],
+      "time": "10 AM–8 PM",
+      "url": "https://www.gokimmswick.com/kimmswick-holiday-2026/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "evt048",
+      "name": "Kimmswick Stocking Stroll",
+      "city": "Kimmswick",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Historic"
+      ],
+      "time": "See organizer",
+      "url": "https://www.gokimmswick.com/kimmswick-holiday-2026/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "evt049",
+      "name": "Kimmswick Cookie Walk",
+      "city": "Kimmswick",
+      "venue": "",
+      "categories": [
+        "Food & Drink",
+        "Historic"
+      ],
+      "time": "Reported sold out; verify",
+      "url": "https://www.gokimmswick.com/kimmswick-holiday-2026/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-03",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt050",
+      "name": "Daniel Boone Home Candlelight Walks",
+      "city": "Defiance",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "Lights"
+      ],
+      "time": "Select Fridays/Saturdays",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-04",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt051",
+      "name": "1820 Stephenson House Candlelight Christmas",
+      "city": "Edwardsville, IL",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "Lights"
+      ],
+      "time": "4–7 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "evt052",
+      "name": "Glen Carbon Heritage Winter Market",
+      "city": "Glen Carbon, IL",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Historic",
+        "Lights"
+      ],
+      "time": "5–8 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "evt053",
+      "name": "Central West End Holiday Window Walk",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Community"
+      ],
+      "time": "Saturdays 1–5 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-05",
+      "end": "2026-12-19",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt054",
+      "name": "Downtown Kirkwood Holiday Walk",
+      "city": "Kirkwood",
+      "venue": "",
+      "categories": [
+        "Community",
+        "Markets"
+      ],
+      "time": "Morning onward",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "evt055",
+      "name": "Cottle Village Christmas on Farmstead",
+      "city": "Cottleville",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Family"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "evt056",
+      "name": "Farmstead Distillery Reindeer Room",
+      "city": "Cottleville",
+      "venue": "",
+      "categories": [
+        "Food & Drink",
+        "Wineries & Breweries"
+      ],
+      "time": "11 AM–midnight",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "evt057",
+      "name": "New Melle Country Christmas",
+      "city": "New Melle",
+      "venue": "",
+      "categories": [
+        "Community",
+        "Parades",
+        "Family"
+      ],
+      "time": "4–7 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "evt058",
+      "name": "Warrenton Hometown Christmas",
+      "city": "Warrenton",
+      "venue": "",
+      "categories": [
+        "Community",
+        "Parades",
+        "Markets"
+      ],
+      "time": "5–8:30 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt059",
+      "name": "Jerseyville Downtown Country Christmas",
+      "city": "Jerseyville, IL",
+      "venue": "",
+      "categories": [
+        "Community",
+        "Parades",
+        "Markets"
+      ],
+      "time": "Afternoon/evening",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "evt060",
+      "name": "Wright City Christmas Parade & Tree Lighting",
+      "city": "Wright City",
+      "venue": "",
+      "categories": [
+        "Community",
+        "Parades",
+        "Lights"
+      ],
+      "time": "6–8 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "event_type": "special"
+    },
+    {
+      "id": "evt061",
+      "name": "Marthasville Free Community Christmas",
+      "city": "Marthasville",
+      "venue": "",
+      "categories": [
+        "Community",
+        "Family"
+      ],
+      "time": "4 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt062",
+      "name": "Grabs House Museum Holiday Open House",
+      "city": "Marthasville",
+      "venue": "",
+      "categories": [
+        "Historic"
+      ],
+      "time": "1–4 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt063",
+      "name": "St. Ignatius Community Thanksgiving Dinner",
+      "city": "Marthasville",
+      "venue": "",
+      "categories": [
+        "Food & Drink",
+        "Community"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-26",
+      "end": "2026-11-26",
+      "event_type": "special"
+    },
+    {
+      "id": "evt064",
+      "name": "St. Patrick Christmas Treasure Market",
+      "city": "Wentzville",
+      "venue": "St. Patrick Social Hall, 405 S Church St",
+      "categories": [
+        "Markets",
+        "European & Heritage Christmas"
+      ],
+      "time": "Sat 8 AM–7 PM; Sun 7:30 AM–12:30 PM",
+      "url": "https://www.stpatrickwentzville.org/treasure",
+      "notes": "Donated Christmas decorations and collectibles; admission not specified.",
+      "source_status": "2026 schedule confirmed: St. Patrick Wentzville church event page",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "event_type": "special"
+    },
+    {
+      "id": "evt065",
+      "name": "Frisella Nursery Christmas Open House",
+      "city": "Defiance",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Arts & Workshops"
+      ],
+      "time": "10 AM–3 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "evt066",
+      "name": "Sounds of Starkenburg Christmas Market & Soup Supper",
+      "city": "Starkenburg",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Food & Drink",
+        "Markets"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "evt067",
+      "name": "Copper Mule End of Prohibition Party",
+      "city": "Hermann",
+      "venue": "",
+      "categories": [
+        "Food & Drink",
+        "Wineries & Breweries"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt068",
+      "name": "Maplewood Christmas Tree Walk",
+      "city": "Maplewood",
+      "venue": "",
+      "categories": [
+        "Community",
+        "Lights"
+      ],
+      "time": "6–8 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "event_type": "special"
+    },
+    {
+      "id": "evt069",
+      "name": "Long Row Lavender Christmas Market",
+      "city": "Wright City",
+      "venue": "26549 S Stracks Church Rd",
+      "categories": [
+        "Markets",
+        "Arts & Workshops"
+      ],
+      "time": "Select Saturdays; verify dates",
+      "url": "https://longrowlavender.com/pages/markets-at-long-row",
+      "notes": "Free admission; rotating artisans and live music. Indoor/outdoor, weather permitting.",
+      "source_status": "2026 organizer flyer",
+      "start": "2026-11-21",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt070",
+      "name": "Four-Winery Christmas Market",
+      "city": "Augusta",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Wineries & Breweries"
+      ],
+      "time": "Approx. 11 AM–5 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "evt071",
+      "name": "Defiance Ridge Holiday Movie Trivia",
+      "city": "Defiance",
+      "venue": "",
+      "categories": [
+        "Wineries & Breweries",
+        "Food & Drink"
+      ],
+      "time": "6–9 PM",
+      "url": "https://www.defianceridgevineyards.com/calendar",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt072",
+      "name": "Defiance Ridge Holiday Bingo",
+      "city": "Defiance",
+      "venue": "",
+      "categories": [
+        "Wineries & Breweries"
+      ],
+      "time": "See organizer",
+      "url": "https://www.defianceridgevineyards.com/calendar",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "event_type": "special"
+    },
+    {
+      "id": "evt073",
+      "name": "Chandler Hill Christmas Movie Trivia & Buffet",
+      "city": "Defiance",
+      "venue": "",
+      "categories": [
+        "Wineries & Breweries",
+        "Food & Drink"
+      ],
+      "time": "6–9 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt074",
+      "name": "Chandler Hill Holiday Wreath Workshop",
+      "city": "Defiance",
+      "venue": "",
+      "categories": [
+        "Arts & Workshops",
+        "Wineries & Breweries"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt075",
+      "name": "Chandler Hill Bubbly Holiday Wine Dinner",
+      "city": "Defiance",
+      "venue": "",
+      "categories": [
+        "Wineries & Breweries",
+        "Food & Drink"
+      ],
+      "time": "6–9 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "event_type": "special"
+    },
+    {
+      "id": "evt076",
+      "name": "Adam Puchta Wreath & Wine Bar",
+      "city": "Hermann",
+      "venue": "",
+      "categories": [
+        "Arts & Workshops",
+        "Wineries & Breweries"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "event_type": "special"
+    },
+    {
+      "id": "evt077",
+      "name": "McKelvey Vineyards Christmas Country Manor Market",
+      "city": "Leslie",
+      "venue": "",
+      "categories": [
+        "Wineries & Breweries",
+        "Markets"
+      ],
+      "time": "Noon–8 PM",
+      "url": "https://www.mckelveyvineyards.com/events",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt078",
+      "name": "Anheuser-Busch Brewery Lights",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Lights",
+        "Wineries & Breweries"
+      ],
+      "time": "Select nights; timed entry",
+      "url": "https://www.budweisertours.com/",
+      "notes": "Paid advance timed-entry reservation. Select available date and time; four special Friday theme nights listed separately. | Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 organizer season; exact ticket dates vary",
+      "start": "2026-11-21",
+      "end": "2026-12-26",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt079",
+      "name": "Anheuser-Busch Ugly Sweater Night",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Wineries & Breweries",
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "event_type": "special"
+    },
+    {
+      "id": "evt080",
+      "name": "Anheuser-Busch Holiday Karaoke",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Wineries & Breweries",
+        "Music & Shows"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "event_type": "special"
+    },
+    {
+      "id": "evt081",
+      "name": "Anheuser-Busch Vintage Bud Night",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Wineries & Breweries"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-18",
+      "end": "2026-12-18",
+      "event_type": "special"
+    },
+    {
+      "id": "evt082",
+      "name": "Noboleis Winter WINE-derland Greenhouses",
+      "city": "Augusta",
+      "venue": "",
+      "categories": [
+        "Wineries & Breweries",
+        "Food & Drink"
+      ],
+      "time": "Reservations",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-27",
+      "end": "2026-12-30",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt083",
+      "name": "Mount Pleasant Christmas Walk Activities",
+      "city": "Augusta",
+      "venue": "",
+      "categories": [
+        "Wineries & Breweries",
+        "Food & Drink"
+      ],
+      "time": "Select Fridays",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-04",
+      "end": "2026-12-11",
+      "event_type": "special"
+    },
+    {
+      "id": "evt084",
+      "name": "Defiance Tree Lighting",
+      "city": "Defiance",
+      "venue": "",
+      "categories": [
+        "Lights",
+        "Community"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "evt085",
+      "name": "Defiance Christmas Festival",
+      "city": "Defiance",
+      "venue": "",
+      "categories": [
+        "Community",
+        "Markets"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt086",
+      "name": "Butchwax & The Hollywoods Holiday Concert",
+      "city": "St. Charles area",
+      "venue": "",
+      "categories": [
+        "Music & Shows"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt087",
+      "name": "Butchwax & The Hollywoods Holiday Concert II",
+      "city": "St. Charles area",
+      "venue": "",
+      "categories": [
+        "Music & Shows"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-18",
+      "end": "2026-12-18",
+      "event_type": "special"
+    },
+    {
+      "id": "evt088",
+      "name": "Christmas Eve Brunch on Miss Augusta",
+      "city": "Augusta",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-24",
+      "end": "2026-12-24",
+      "event_type": "special"
+    },
+    {
+      "id": "evt089",
+      "name": "Sasha’s Shop n’ Sip Holidaze Party",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Food & Drink"
+      ],
+      "time": "5:30–8 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-18",
+      "end": "2026-11-18",
+      "event_type": "special"
+    },
+    {
+      "id": "evt090",
+      "name": "Moonshine & Mistletoe Christmas Pop-Up",
+      "city": "St. Charles",
+      "venue": "",
+      "categories": [
+        "Food & Drink",
+        "Oddities"
+      ],
+      "time": "5–9:15 PM",
+      "url": "https://www.eventbrite.com/e/moonshine-and-mistletoe-christmas-pop-up-tickets-2004729474825",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-15",
+      "end": "2026-12-15",
+      "event_type": "special"
+    },
+    {
+      "id": "evt091",
+      "name": "Four Seasons Holiday Cocktail-Making Class",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Food & Drink",
+        "Arts & Workshops"
+      ],
+      "time": "Sundays 3 PM; $100/person",
+      "url": "https://press.fourseasons.com/stlouis/hotel-news/2026/festive-season/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-29",
+      "end": "2026-12-27",
+      "event_type": "special"
+    },
+    {
+      "id": "evt092",
+      "name": "Four Seasons Holiday Lodge",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "https://press.fourseasons.com/stlouis/hotel-news/2026/festive-season/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-27",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt093",
+      "name": "Craft Alliance Holiday Gift-Making Workshops",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Arts & Workshops"
+      ],
+      "time": "Select dates",
+      "url": "https://www.craftalliance.org/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-20",
+      "end": "2026-12-18",
+      "event_type": "special"
+    },
+    {
+      "id": "evt094",
+      "name": "The Painted Pot Painting with Santa",
+      "city": "St. Charles",
+      "venue": "",
+      "categories": [
+        "Arts & Workshops",
+        "Family"
+      ],
+      "time": "3–5 PM",
+      "url": "https://www.paintedpotstl.com/shop",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "event_type": "special"
+    },
+    {
+      "id": "evt095",
+      "name": "Artscope Merry Maker’s Workshop",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Arts & Workshops"
+      ],
+      "time": "11 AM–1 PM",
+      "url": "https://www.artscopestl.org/3rd-saturdays-artscope-stlouis",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-19",
+      "end": "2026-12-19",
+      "event_type": "special"
+    },
+    {
+      "id": "evt096",
+      "name": "Magic House Adult Play Date Holiday Movie Pop-Up",
+      "city": "Kirkwood",
+      "venue": "",
+      "categories": [
+        "Oddities",
+        "Movies & Shows"
+      ],
+      "time": "6–9 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-10",
+      "end": "2026-12-10",
+      "event_type": "special"
+    },
+    {
+      "id": "evt097",
+      "name": "Winterfest Holiday Spirits Tasting",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "2–7 PM",
+      "url": "https://www.archpark.org/events/winterfest",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-26",
+      "end": "2026-12-26",
+      "event_type": "special"
+    },
+    {
+      "id": "evt098",
+      "name": "North Point High School Holiday Market",
+      "city": "Wentzville",
+      "venue": "",
+      "categories": [
+        "School Craft Fairs",
+        "Markets"
+      ],
+      "time": "9 AM–3 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt099",
+      "name": "Timberland Holiday Craft & Music Market",
+      "city": "Wentzville",
+      "venue": "",
+      "categories": [
+        "School Craft Fairs",
+        "Markets",
+        "Music & Shows"
+      ],
+      "time": "9 AM–3 PM",
+      "url": "https://timberlandcraftfair.com/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "evt100",
+      "name": "Merry Mayhem Market at Steel Shop",
+      "city": "St. Charles",
+      "venue": "Steel Shop, 49 Lawrence St",
+      "categories": [
+        "Markets"
+      ],
+      "time": "Fri 2–9 PM; Sat 9 AM–6 PM; Sun 10 AM–4 PM",
+      "url": "https://www.belledene.com/tickets",
+      "notes": "Ticketed: previously listed $6 single day, $10 two days, $12 three days; confirm current checkout price.",
+      "source_status": "2026 schedule confirmed: Belle Dene organizer ticket page and 2026 schedule screenshot",
+      "start": "2026-11-20",
+      "end": "2026-11-22",
+      "event_type": "special"
+    },
+    {
+      "id": "evt101",
+      "name": "Merry Makers Market at Foundry Art Centre",
+      "city": "St. Charles",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Arts & Workshops"
+      ],
+      "time": "Fri 5–8 PM; Sat 11 AM–5 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-04",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt102",
+      "name": "St. Charles Community College Holiday Craft Show",
+      "city": "Cottleville",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "School Craft Fairs"
+      ],
+      "time": "2–8 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "event_type": "special"
+    },
+    {
+      "id": "evt103",
+      "name": "St. Charles Community College Light Tree & Drone Show",
+      "city": "Cottleville",
+      "venue": "",
+      "categories": [
+        "Lights",
+        "Family"
+      ],
+      "time": "5–8 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "evt104",
+      "name": "St. Charles Holiday Market & Cookie Bake-Off",
+      "city": "St. Charles",
+      "venue": "Main Street between Clark and Adams",
+      "categories": [
+        "Markets",
+        "Food & Drink"
+      ],
+      "time": "7:30 AM–1 PM",
+      "url": "https://www.stcharlescitymo.gov/1367/Holiday-Market---November-28",
+      "notes": "Free general admission per previous visitor experience; cookie bake-off entry $5; Santa and reindeer 10 AM–noon.",
+      "source_status": "2026 schedule confirmed: City of St. Charles 2026 holiday market page",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "evt105",
+      "name": "St. Charles West Warrior Bands Arts & Crafts Fair",
+      "city": "St. Charles",
+      "venue": "",
+      "categories": [
+        "School Craft Fairs",
+        "Markets"
+      ],
+      "time": "9 AM–3 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt106",
+      "name": "New Town Holiday Market",
+      "city": "St. Charles",
+      "venue": "New Town Amphitheater",
+      "categories": [
+        "Markets"
+      ],
+      "time": "11 AM–3 PM",
+      "url": "https://stcharlescitymo.gov/1321/New-Town-Market",
+      "notes": "Local vendors and Kids Market.",
+      "source_status": "2026 schedule confirmed: City of St. Charles 2026 New Town Market page",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "event_type": "special"
+    },
+    {
+      "id": "evt107",
+      "name": "Frenchtown Tree Lighting",
+      "city": "St. Charles",
+      "venue": "Eco Park, 1800 block N Second St",
+      "categories": [
+        "Lights",
+        "Community"
+      ],
+      "time": "4:30–6:30 PM",
+      "url": "",
+      "notes": "Tree lighting at 6 PM; live music, Santa and holiday guests. Dogs welcome; admission not explicitly listed.",
+      "source_status": "2026 schedule confirmed: 2026 Frenchtown event announcement and organizer post",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "evt108",
+      "name": "Euro Trash Atelier Holiday Market",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "European & Heritage Christmas"
+      ],
+      "time": "10 AM–6 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "event_type": "special"
+    },
+    {
+      "id": "evt109",
+      "name": "Hill Antique Market Christmas Extravaganza",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Markets"
+      ],
+      "time": "3–9 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-02",
+      "end": "2026-12-02",
+      "event_type": "special"
+    },
+    {
+      "id": "evt110",
+      "name": "Assassin Vintage Christmas Cocktail Party",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Food & Drink",
+        "Markets"
+      ],
+      "time": "6–8 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "event_type": "special"
+    },
+    {
+      "id": "evt111",
+      "name": "Protagonist Holiday Market & Wine Tasting",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Food & Drink"
+      ],
+      "time": "7–10 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "event_type": "special"
+    },
+    {
+      "id": "evt112",
+      "name": "Grinch Holiday Market at 9 Mile Garden",
+      "city": "Affton",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Family"
+      ],
+      "time": "Noon–5 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "event_type": "special"
+    },
+    {
+      "id": "evt113",
+      "name": "Bowood Farms Studio Artists Shop",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Arts & Workshops"
+      ],
+      "time": "10 AM–3 PM",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "evt114",
+      "name": "Moolah FEZtival of Trees",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Community",
+        "Family"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-21",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "evt115",
+      "name": "Lindbergh Arts & Crafts Fair",
+      "city": "St. Louis County",
+      "venue": "",
+      "categories": [
+        "School Craft Fairs",
+        "Markets"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-21",
+      "end": "2026-11-22",
+      "event_type": "special"
+    },
+    {
+      "id": "evt116",
+      "name": "Oakville Tiger Band Holiday Craft Fair",
+      "city": "Oakville",
+      "venue": "",
+      "categories": [
+        "School Craft Fairs",
+        "Markets"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt117",
+      "name": "Holiday House Tour & Boutique",
+      "city": "St. Louis County",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "Markets"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt118",
+      "name": "Souper Shopping Spectacular",
+      "city": "St. Charles",
+      "venue": "Jake’s on Main, 136 S Main St",
+      "categories": [
+        "Markets",
+        "Food & Drink"
+      ],
+      "time": "6–8 PM",
+      "url": "",
+      "notes": "Ticketed event: $50/person before fees; soup tastings and shopping credit. Check ticket availability.",
+      "source_status": "2026 schedule confirmed: 2026 organizer Eventbrite listing",
+      "start": "2026-11-17",
+      "end": "2026-11-17",
+      "event_type": "special"
+    },
+    {
+      "id": "evt119",
+      "name": "Edwardsville Winter Market",
+      "city": "Edwardsville, IL",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "Community"
+      ],
+      "time": "Noon–5 PM",
+      "url": "https://cityofedwardsville.com/759/Winter-Market-Festival",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt120",
+      "name": "Ink House Holiday Vendor Market",
+      "city": "Edwardsville, IL",
+      "venue": "",
+      "categories": [
+        "Markets"
+      ],
+      "time": "5–9 PM",
+      "url": "https://www.riversandroutes.com/events/holiday-vendor-market-at-the-ink-house/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-08",
+      "end": "2026-12-08",
+      "event_type": "special"
+    },
+    {
+      "id": "evt121",
+      "name": "SLAM Winter Holiday Cards",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Arts & Workshops",
+        "Museums"
+      ],
+      "time": "See organizer",
+      "url": "https://www.slam.org/winter-at-slam/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "event_type": "special"
+    },
+    {
+      "id": "evt122",
+      "name": "SLAM Festive Fridays",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Museums",
+        "Arts & Workshops"
+      ],
+      "time": "Select Fridays",
+      "url": "https://www.slam.org/winter-at-slam/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-27",
+      "end": "2026-12-18",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt123",
+      "name": "SLAM Winter Celebrations",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Museums",
+        "Family"
+      ],
+      "time": "See organizer",
+      "url": "https://www.slam.org/winter-at-slam/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "event_type": "special"
+    },
+    {
+      "id": "evt124",
+      "name": "SLAM Kwanzaa Celebration",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Museums"
+      ],
+      "time": "See organizer",
+      "url": "https://www.slam.org/winter-at-slam/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-27",
+      "end": "2026-12-27",
+      "event_type": "special"
+    },
+    {
+      "id": "evt125",
+      "name": "Das Bevo & Tim’s Chrome Bar Holiday Market",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Markets",
+        "European & Heritage Christmas"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "event_type": "special"
+    },
+    {
+      "id": "evt126",
+      "name": "Nightcap Noel: Christmas After Dark",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Movies & Shows",
+        "Food & Drink"
+      ],
+      "time": "6 PM onward",
+      "url": "https://hipointetheatre.org/movies/nightcap-noel-christmas-after-dark/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt127",
+      "name": "Interactive White Christmas at Wildey Theatre",
+      "city": "Edwardsville, IL",
+      "venue": "",
+      "categories": [
+        "Movies & Shows"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-04",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt128",
+      "name": "Arkadin Cinema: Santa Claus (1959)",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Movies & Shows",
+        "Oddities"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-14",
+      "end": "2026-12-14",
+      "event_type": "special"
+    },
+    {
+      "id": "evt129",
+      "name": "Arkadin Ghost Stories for Christmas",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Movies & Shows",
+        "Oddities"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-24",
+      "end": "2026-12-24",
+      "event_type": "special"
+    },
+    {
+      "id": "evt130",
+      "name": "Muppet Christmas Carol in Concert",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Movies & Shows",
+        "Music & Shows"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "event_type": "special"
+    },
+    {
+      "id": "evt131",
+      "name": "Winterfest Ice Carvings & Market",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Arts & Workshops",
+        "Markets"
+      ],
+      "time": "3–5 PM",
+      "url": "https://www.archpark.org/events/winterfest",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "evt132",
+      "name": "Wentzville Holiday Night Lights",
+      "city": "Wentzville",
+      "venue": "Rotary Park",
+      "categories": [
+        "Lights",
+        "Family"
+      ],
+      "time": "5–9:30 PM",
+      "url": "https://www.wentzvillemo.gov/community/events/holiday-night-lights-drive-thru",
+      "notes": "Drive-through $15/vehicle advance (up to 6 people), $20 at entrance. Closed Dec 13, 14 and 25. Dec 6 starts approximately 7 PM. Saturday Santa visits at Kolb Building were included in prior years.",
+      "source_status": "2026 schedule confirmed: City of Wentzville 2026 drive-through schedule",
+      "start": "2026-11-27",
+      "end": "2026-12-30",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt133",
+      "name": "Wentzville Holiday Night Lights Walk-Through",
+      "city": "Wentzville",
+      "venue": "",
+      "categories": [
+        "Lights",
+        "Family"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-13",
+      "end": "2026-12-14",
+      "event_type": "special"
+    },
+    {
+      "id": "evt134",
+      "name": "Toasted Chestnut Holiday Pop-Up",
+      "city": "Cottleville",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "Select dates",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-27",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt135",
+      "name": "Miracle at Small Change",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-20",
+      "end": "2026-12-27",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt136",
+      "name": "Avalanche Ski Lodge Pop-Up",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "https://www.avalanchepopup.com/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-25",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt137",
+      "name": "Santa’s Speakeasy at Hidden Gem",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-20",
+      "end": "2026-12-30",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt138",
+      "name": "Shack the Halls",
+      "city": "Frontenac",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "Reservations",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-27",
+      "end": "2026-12-27",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt139",
+      "name": "Winter Wanderlust Lounge",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "Thu–Sat",
+      "url": "https://www.eventbrite.com/e/the-passport-present-winter-wanderlust-lounge-a-holiday-bar-tickets-2004101329024",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-27",
+      "end": "2026-12-19",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt140",
+      "name": "Frosted at Piper Palm House",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-10",
+      "end": "2026-12-23",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt141",
+      "name": "Jingle Joint at Brookdale Farms",
+      "city": "Eureka",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-27",
+      "end": "2026-12-20",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt142",
+      "name": "Polar Patio at Side Project Pizza",
+      "city": "Maplewood",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-18",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt143",
+      "name": "The Chalet: Reimagined at Le Méridien",
+      "city": "Clayton",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "Select Fri–Sun; reservations required",
+      "url": "https://cafelaviestlouis.com/event/the-chalet/",
+      "notes": "Three-course alpine fondue experience. $99 per person menu; reservation food/beverage minimums may apply. Select dates; check reservation availability. | Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 organizer event season; exact reservation dates vary",
+      "start": "2026-11-13",
+      "end": "2027-01-10",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt144",
+      "name": "Cocktails and Claws at 4 Hands & Peacemaker",
+      "city": "Kirkwood",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-15",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt145",
+      "name": "Up on the Rooftop at Three Sixty",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-15",
+      "end": "2026-12-29",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt146",
+      "name": "The Sleigh Shed at Train Shed",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Food & Drink"
+      ],
+      "time": "See organizer",
+      "url": "https://www.trainshed-stl.com/THE-SLEIGH-SHED/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-15",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt147",
+      "name": "Christmas on The Hill",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Family",
+        "Community"
+      ],
+      "time": "11 AM–3 PM",
+      "url": "https://www.hillstl.org/event/2026-christmas-on-the-hill/",
+      "notes": "Reported free general admission; some activities may have charges.",
+      "source_status": "2026 schedule confirmed: The Hill neighborhood association 2026 event announcement",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "event_type": "special"
+    },
+    {
+      "id": "evt148",
+      "name": "Christmas Night Market on The Hill",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Markets"
+      ],
+      "time": "2–6 PM",
+      "url": "",
+      "notes": "Free general entry reported; optional paid VIP tickets. Ellen particularly wants to attend.",
+      "source_status": "2026 schedule confirmed: The Hill 2026 organizer announcement",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt149",
+      "name": "German American Committee Christkindlmarkt",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Markets"
+      ],
+      "time": "2026 date not yet confirmed",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt150",
+      "name": "Alliance Française Holiday Party",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Food & Drink"
+      ],
+      "time": "RSVP required",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "evt151",
+      "name": "St. Louis–Bologna Italian Christmas Concert",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Music & Shows"
+      ],
+      "time": "2026 date not yet confirmed",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "event_type": "special"
+    },
+    {
+      "id": "evt152",
+      "name": "German School Association Weihnachtsfeier",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas"
+      ],
+      "time": "2026 date not yet confirmed",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt153",
+      "name": "Mistletoe on Macklind Italian Holiday Pop-Up",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Food & Drink"
+      ],
+      "time": "Dates need confirmation",
+      "url": "https://www.eventbrite.com/e/mistletoe-on-macklind-tickets-2003483524153",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-12-01",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt154",
+      "name": "Millstadt Olde Village Christmas & Lighted Parade",
+      "city": "Millstadt, IL",
+      "venue": "",
+      "categories": [
+        "European & Heritage Christmas",
+        "Parades",
+        "Community"
+      ],
+      "time": "See organizer",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "event_type": "special"
+    },
+    {
+      "id": "evt155",
+      "name": "Millstadt Historical Society Tree-Fest",
+      "city": "Millstadt, IL",
+      "venue": "",
+      "categories": [
+        "Historic",
+        "European & Heritage Christmas"
+      ],
+      "time": "Exact dates need confirmation",
+      "url": "",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-27",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt156",
+      "name": "Christmas Tree Farm Opening at Eckert’s",
+      "city": "Belleville",
+      "venue": "",
+      "categories": [
+        "Family",
+        "Community"
+      ],
+      "time": "9 AM–4:30 PM",
+      "url": "https://explorebelleville.net/holiday/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "evt157",
+      "name": "Polar Express Train Ride at Union Station",
+      "city": "St. Louis",
+      "venue": "",
+      "categories": [
+        "Family",
+        "Movies & Shows"
+      ],
+      "time": "Reservations",
+      "url": "https://fun4stlkids.com/Whats-Happening/Holiday-Events/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-15",
+      "end": "2026-12-30",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt158",
+      "name": "Santa & Live Reindeer at Transportation Museum",
+      "city": "Kirkwood",
+      "venue": "",
+      "categories": [
+        "Museums",
+        "Family"
+      ],
+      "time": "Select dates",
+      "url": "https://fun4stlkids.com/Whats-Happening/Holiday-Events/",
+      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "Research lead",
+      "start": "2026-11-27",
+      "end": "2026-12-19",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "evt159",
+      "name": "O’Fallon Tree Lighting Ceremony",
+      "city": "O’Fallon",
+      "venue": "O’Fallon Municipal Centre, 100 N Main St",
+      "categories": [
+        "Lights",
+        "Community"
+      ],
+      "time": "6–8 PM",
+      "url": "https://www.ofallonmo.gov/things_to_do/events_and_festivals/tree_lighting_ceremony.php",
+      "notes": "Likely free general admission; food trucks, Santa, music and tree lighting.",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-11-18",
+      "end": "2026-11-18",
+      "event_type": "special"
+    },
+    {
+      "id": "evt160",
+      "name": "Holiday Sip & Shop",
+      "city": "O’Fallon",
+      "venue": "Krekel Civic Center, 305 Civic Park Dr",
+      "categories": [
+        "Markets",
+        "Food & Drink"
+      ],
+      "time": "10 AM–2 PM",
+      "url": "https://ofallon.mo.us/city-calendar",
+      "notes": "Festive cocktails and mocktails for sale, live music and shopping; general admission not specified.",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "evt161",
+      "name": "Wentzville Middle School Craft & Vendor Fair",
+      "city": "Wentzville",
+      "venue": "405 Campus Dr",
+      "categories": [
+        "School Craft Fairs",
+        "Markets"
+      ],
+      "time": "9 AM–3 PM",
+      "url": "https://www.eventbrite.com/e/wentzville-middle-school-craft-vendor-fair-2026-tickets-1995789505135",
+      "notes": "Free admission; 80+ vendors, Travelin’ Tom’s Coffee Truck.",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "evt162",
+      "name": "Light the Tree at St. Charles Community College",
+      "city": "Cottleville",
+      "venue": "St. Charles Community College",
+      "categories": [
+        "Lights",
+        "Community"
+      ],
+      "time": "5–8 PM",
+      "url": "https://www.stchas.edu/lightthetree/",
+      "notes": "Free admission; drone show, tree lighting, Santa, s’mores and food. Drone show exact time not confirmed.",
+      "source_status": "2026 date listed by organizer",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "rel001",
+      "name": "Brewery Lights: Friends and Family Night",
+      "city": "St. Louis",
+      "venue": "1200 Lynch Street",
+      "categories": [
+        "Lights",
+        "Wineries & Breweries"
+      ],
+      "time": "Check ticket times",
+      "url": "https://www.budweisertours.com/",
+      "notes": "Special themed evening; advance reservation required.",
+      "source_status": "2026 organizer information",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "event_type": "special"
+    },
+    {
+      "id": "rel002",
+      "name": "Brewery Lights: Ugly Sweater Night",
+      "city": "St. Louis",
+      "venue": "1200 Lynch Street",
+      "categories": [
+        "Lights",
+        "Wineries & Breweries"
+      ],
+      "time": "Check ticket times",
+      "url": "https://www.budweisertours.com/",
+      "notes": "Special themed evening; advance reservation required.",
+      "source_status": "2026 organizer information",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "event_type": "special"
+    },
+    {
+      "id": "rel003",
+      "name": "Brewery Lights: Carol-oke Night",
+      "city": "St. Louis",
+      "venue": "1200 Lynch Street",
+      "categories": [
+        "Lights",
+        "Wineries & Breweries"
+      ],
+      "time": "Check ticket times",
+      "url": "https://www.budweisertours.com/",
+      "notes": "Special themed evening; advance reservation required.",
+      "source_status": "2026 organizer information",
+      "start": "2026-12-11",
+      "end": "2026-12-11",
+      "event_type": "special"
+    },
+    {
+      "id": "rel004",
+      "name": "Brewery Lights: Vintage Bud Night",
+      "city": "St. Louis",
+      "venue": "1200 Lynch Street",
+      "categories": [
+        "Lights",
+        "Wineries & Breweries"
+      ],
+      "time": "Check ticket times",
+      "url": "https://www.budweisertours.com/",
+      "notes": "Special themed evening; advance reservation required.",
+      "source_status": "2026 organizer information",
+      "start": "2026-12-18",
+      "end": "2026-12-18",
+      "event_type": "special"
+    },
+    {
+      "id": "rel005",
+      "name": "Long Row Lavender Christmas Tea",
+      "city": "Wright City",
+      "venue": "26549 S Stracks Church Rd",
+      "categories": [
+        "Food & Drink",
+        "European & Heritage Christmas"
+      ],
+      "time": "11:30 AM–2 PM",
+      "url": "https://longrowlavender.com/",
+      "notes": "Advance ticket required; $65 per adult. Greenhouse tea; dress warmly.",
+      "source_status": "2026 organizer information",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "rel006",
+      "name": "Grant’s Farm Holiday Lights: Drive-Through",
+      "city": "St. Louis",
+      "venue": "7385 Grant Road",
+      "categories": [
+        "Lights"
+      ],
+      "time": "5:30–8 PM",
+      "url": "https://grantsfarm.com/",
+      "notes": "$30 per vehicle; timed-entry booking required.",
+      "source_status": "2026 organizer information",
+      "start": "2026-12-09",
+      "end": "2026-12-16",
+      "event_type": "special"
+    },
+    {
+      "id": "rel007",
+      "name": "Grant’s Farm Holiday Lights: Walk-Through",
+      "city": "St. Louis",
+      "venue": "7385 Grant Road",
+      "categories": [
+        "Lights"
+      ],
+      "time": "5–10 PM",
+      "url": "https://grantsfarm.com/plan-your-visit/holiday-lights-walk-through/",
+      "notes": "$15 per person, plus parking if driving. Select an available date on the booking calendar; optional VIP packages. Season through Dec 30. | Seasonal listing only: confirm exact operating dates with organizer.",
+      "source_status": "2026 organizer information",
+      "start": "2026-11-21",
+      "end": "2026-12-30",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "rel008",
+      "name": "Santa’s Magical Kingdom",
+      "city": "Eureka",
+      "venue": "5300 Fox Creek Road",
+      "categories": [
+        "Lights"
+      ],
+      "time": "Hours vary by date",
+      "url": "https://santasmagicalkingdom.com/plan-your-visit/",
+      "notes": "$35 per carload, $40 Saturdays; cash only, pay on exit.",
+      "source_status": "2026 organizer information",
+      "start": "2026-11-20",
+      "end": "2027-01-03",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "rel009",
+      "name": "Winterfest Frizz Fest Winter Market",
+      "city": "St. Louis",
+      "venue": "Kiener Plaza",
+      "categories": [
+        "Markets"
+      ],
+      "time": "2–6 PM",
+      "url": "https://www.archpark.org/events/winterfest",
+      "notes": "Free market; check organizer for vendor details.",
+      "source_status": "2026 organizer information",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "rel010",
+      "name": "St. Peters Tree Lighting & Holly-Day Market",
+      "city": "St. Peters",
+      "venue": "1 St. Peters Centre Boulevard",
+      "categories": [
+        "Markets",
+        "Community"
+      ],
+      "time": "5:30–8:30 PM",
+      "url": "https://www.stpetersmo.net/882/Tree-Lighting-Ceremony",
+      "notes": "Free admission; indoor market, holiday music and tree lighting.",
+      "source_status": "2026 organizer information",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "event_type": "special"
+    },
+    {
+      "id": "rel011",
+      "name": "St. Charles Market Holiday Market",
+      "city": "St. Charles",
+      "venue": "Historic Main Street, Clark to Monroe",
+      "categories": [
+        "Markets"
+      ],
+      "time": "7:30 AM–1 PM",
+      "url": "https://www.stcharlescitymo.gov/1367/Holiday-Market---November-28",
+      "notes": "Free general admission; optional $5 cookie bakeoff.",
+      "source_status": "2026 organizer information",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "rel012",
+      "name": "Augusta Candlelight Christmas Walk",
+      "city": "Augusta",
+      "venue": "Downtown Augusta",
+      "categories": [
+        "Historic",
+        "Community"
+      ],
+      "time": "5–9:30 PM",
+      "url": "https://www.discoverstcharles.com/",
+      "notes": "Free admission; luminaries, shopping and bonfires.",
+      "source_status": "2026 organizer information",
+      "start": "2026-12-04",
+      "end": "2026-12-11",
+      "event_type": "special"
+    },
+    {
+      "id": "rel013",
+      "name": "Holiday Sip & Shop",
+      "city": "O’Fallon",
+      "venue": "Krekel Civic Center",
+      "categories": [
+        "Markets",
+        "Food & Drink"
+      ],
+      "time": "10 AM–2 PM",
+      "url": "https://www.ofallonmo.gov/sip-shop",
+      "notes": "Holiday vendors, food and drinks; admission cost not confirmed.",
+      "source_status": "2026 organizer information",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "rel014",
+      "name": "O’Fallon Tree Lighting Ceremony",
+      "city": "O’Fallon",
+      "venue": "100 N Main Street",
+      "categories": [
+        "Community"
+      ],
+      "time": "6–8 PM",
+      "url": "https://www.ofallonmo.gov/things_to_do/events_and_festivals/tree_lighting_ceremony.php",
+      "notes": "Tree lighting, Santa, food trucks and entertainment.",
+      "source_status": "2026 organizer information",
+      "start": "2026-11-18",
+      "end": "2026-11-18",
+      "event_type": "special"
+    }
+  ],
+  "occurrences": [
+    {
+      "event_id": "evt017",
+      "date": "2026-11-13",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-14",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-11-14",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-15",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-11-15",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-16",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-17",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt118",
+      "date": "2026-11-17",
+      "time": "See organizer",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-18",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt159",
+      "date": "2026-11-18",
+      "time": "6–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "rel014",
+      "date": "2026-11-18",
+      "time": "6–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-19",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-20",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-11-20",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt100",
+      "date": "2026-11-20",
+      "time": "2–9 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "short_run"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-11-20",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-11-21",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-21",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-11-21",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt064",
+      "date": "2026-11-21",
+      "time": "8 AM–7 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "short_run"
+    },
+    {
+      "event_id": "evt069",
+      "date": "2026-11-21",
+      "time": "10 AM–3 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt100",
+      "date": "2026-11-21",
+      "time": "9 AM–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "short_run"
+    },
+    {
+      "event_id": "evt107",
+      "date": "2026-11-21",
+      "time": "4:30–6:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt160",
+      "date": "2026-11-21",
+      "time": "10 AM–2 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt161",
+      "date": "2026-11-21",
+      "time": "9 AM–3 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt162",
+      "date": "2026-11-21",
+      "time": "5–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-11-21",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel013",
+      "date": "2026-11-21",
+      "time": "10 AM–2 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-11-22",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-22",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-11-22",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt064",
+      "date": "2026-11-22",
+      "time": "7:30 AM–12:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "short_run"
+    },
+    {
+      "event_id": "evt100",
+      "date": "2026-11-22",
+      "time": "10 AM–4 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "short_run"
+    },
+    {
+      "event_id": "evt106",
+      "date": "2026-11-22",
+      "time": "See organizer",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-11-22",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-23",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-11-23",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-11-23",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-24",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-11-24",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-11-24",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-25",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-11-25",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-11-25",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-26",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-11-26",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt001",
+      "date": "2026-11-27",
+      "time": "10 AM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt002",
+      "date": "2026-11-27",
+      "time": "6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-11-27",
+      "time": "9 AM–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-11-27",
+      "time": "4–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-27",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-11-27",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-11-27",
+      "time": "Noon–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-11-27",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel001",
+      "date": "2026-11-27",
+      "time": "Check ticket times",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-11-27",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-11-28",
+      "time": "11 AM–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt005",
+      "date": "2026-11-28",
+      "time": "Weekends; hours vary",
+      "schedule_status": "organizer_listed",
+      "rule": "weekday_rule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-11-28",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-28",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-11-28",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-11-28",
+      "time": "Noon–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt069",
+      "date": "2026-11-28",
+      "time": "10 AM–3 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt104",
+      "date": "2026-11-28",
+      "time": "7:30 AM–1 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-11-28",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-11-28",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel009",
+      "date": "2026-11-28",
+      "time": "2–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel011",
+      "date": "2026-11-28",
+      "time": "7:30 AM–1 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-11-29",
+      "time": "11 AM–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt005",
+      "date": "2026-11-29",
+      "time": "Weekends; hours vary",
+      "schedule_status": "organizer_listed",
+      "rule": "weekday_rule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-11-29",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-29",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-11-29",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-11-29",
+      "time": "Noon–5 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-11-29",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-11-29",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-11-30",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-11-30",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-11-30",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-11-30",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-01",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-01",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-01",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-01",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-02",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-02",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-02",
+      "time": "6–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-02",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-02",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-03",
+      "time": "11 AM–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-03",
+      "time": "4–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-03",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-03",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-03",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-03",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-04",
+      "time": "11 AM–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-04",
+      "time": "4–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-04",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-04",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-04",
+      "time": "6–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt033",
+      "date": "2026-12-04",
+      "time": "Fridays 5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "weekday_rule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-04",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel002",
+      "date": "2026-12-04",
+      "time": "Check ticket times",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-04",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel010",
+      "date": "2026-12-04",
+      "time": "5:30–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel012",
+      "date": "2026-12-04",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-05",
+      "time": "11 AM–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt005",
+      "date": "2026-12-05",
+      "time": "Weekends; hours vary",
+      "schedule_status": "organizer_listed",
+      "rule": "weekday_rule"
+    },
+    {
+      "event_id": "evt006",
+      "date": "2026-12-05",
+      "time": "8–10:30 AM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-05",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt010",
+      "date": "2026-12-05",
+      "time": "10 AM–4 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-05",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-05",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-05",
+      "time": "Noon–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt038",
+      "date": "2026-12-05",
+      "time": "10 AM–5 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "short_run"
+    },
+    {
+      "event_id": "evt069",
+      "date": "2026-12-05",
+      "time": "10 AM–3 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-05",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "evt147",
+      "date": "2026-12-05",
+      "time": "11 AM–3 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-05",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-06",
+      "time": "11 AM–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt005",
+      "date": "2026-12-06",
+      "time": "Weekends; hours vary",
+      "schedule_status": "organizer_listed",
+      "rule": "weekday_rule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-06",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt011",
+      "date": "2026-12-06",
+      "time": "10 AM–3:30 PM; St. Nikolaus parade noon",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-06",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-06",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-06",
+      "time": "Noon–5 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt038",
+      "date": "2026-12-06",
+      "time": "10 AM–3 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "short_run"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-06",
+      "time": "Approx. 7–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "evt148",
+      "date": "2026-12-06",
+      "time": "2–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-06",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-07",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-07",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-07",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-07",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-08",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-08",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-08",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-08",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-09",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-09",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-09",
+      "time": "6–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-09",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel006",
+      "date": "2026-12-09",
+      "time": "5:30–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-09",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-10",
+      "time": "11 AM–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-10",
+      "time": "4–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-10",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-10",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-10",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel006",
+      "date": "2026-12-10",
+      "time": "5:30–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-10",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-11",
+      "time": "11 AM–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt007",
+      "date": "2026-12-11",
+      "time": "10 AM–5 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "short_run"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-11",
+      "time": "4–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-11",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-11",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt028",
+      "date": "2026-12-11",
+      "time": "7:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-11",
+      "time": "6–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt033",
+      "date": "2026-12-11",
+      "time": "Fridays 5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "weekday_rule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-11",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel003",
+      "date": "2026-12-11",
+      "time": "Check ticket times",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-11",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel012",
+      "date": "2026-12-11",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-12",
+      "time": "11 AM–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt005",
+      "date": "2026-12-12",
+      "time": "Weekends; hours vary",
+      "schedule_status": "organizer_listed",
+      "rule": "weekday_rule"
+    },
+    {
+      "event_id": "evt007",
+      "date": "2026-12-12",
+      "time": "10 AM–5 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "short_run"
+    },
+    {
+      "event_id": "evt008",
+      "date": "2026-12-12",
+      "time": "Hours TBA",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-12",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-12",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-12",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt027",
+      "date": "2026-12-12",
+      "time": "9 AM",
+      "schedule_status": "organizer_listed",
+      "rule": "single_date"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-12",
+      "time": "Noon–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-12",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel005",
+      "date": "2026-12-12",
+      "time": "11:30 AM–2 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-12",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-13",
+      "time": "11 AM–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt005",
+      "date": "2026-12-13",
+      "time": "Weekends; hours vary",
+      "schedule_status": "organizer_listed",
+      "rule": "weekday_rule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-13",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-13",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-13",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-13",
+      "time": "Noon–5 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-13",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-14",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-14",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-14",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-15",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-15",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-15",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel006",
+      "date": "2026-12-15",
+      "time": "5:30–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-15",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-16",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-16",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-16",
+      "time": "6–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-16",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel006",
+      "date": "2026-12-16",
+      "time": "5:30–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-16",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-17",
+      "time": "11 AM–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-17",
+      "time": "4–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-17",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-17",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-17",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-17",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-18",
+      "time": "11 AM–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-18",
+      "time": "4–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-18",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-18",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-18",
+      "time": "6–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-18",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel004",
+      "date": "2026-12-18",
+      "time": "Check ticket times",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-18",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-19",
+      "time": "11 AM–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt005",
+      "date": "2026-12-19",
+      "time": "Weekends; hours vary",
+      "schedule_status": "organizer_listed",
+      "rule": "weekday_rule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-19",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-19",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-19",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-19",
+      "time": "Noon–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-19",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-19",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-20",
+      "time": "11 AM–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt005",
+      "date": "2026-12-20",
+      "time": "Weekends; hours vary",
+      "schedule_status": "organizer_listed",
+      "rule": "weekday_rule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-20",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-20",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-20",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-20",
+      "time": "Noon–5 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-20",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-20",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-21",
+      "time": "11 AM–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-21",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-21",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-21",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-21",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-22",
+      "time": "11 AM–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-22",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-22",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-22",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-22",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt004",
+      "date": "2026-12-23",
+      "time": "11 AM–6 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-23",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-23",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-23",
+      "time": "6–8:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-23",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-23",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-24",
+      "time": "4–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-24",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt029",
+      "date": "2026-12-24",
+      "time": "11 AM–2 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-24",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-24",
+      "time": "5:30–10:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-25",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-25",
+      "time": "5:30–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-26",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-26",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-26",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-26",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-26",
+      "time": "5:30–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-27",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-27",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-27",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-27",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-27",
+      "time": "5:30–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-28",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-28",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-28",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-28",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-28",
+      "time": "5:30–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-29",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-29",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-29",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-29",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-29",
+      "time": "5:30–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-30",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-30",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-30",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt132",
+      "date": "2026-12-30",
+      "time": "5–9:30 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "organizer_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-30",
+      "time": "5:30–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2026-12-31",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2026-12-31",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2026-12-31",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2026-12-31",
+      "time": "5:30–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2027-01-01",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2027-01-01",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2027-01-01",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2027-01-01",
+      "time": "5:30–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2027-01-02",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2027-01-02",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt020",
+      "date": "2027-01-02",
+      "time": "Timed entry; choose available slot",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2027-01-02",
+      "time": "5:30–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt009",
+      "date": "2027-01-03",
+      "time": "Noon–8 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt017",
+      "date": "2027-01-03",
+      "time": "5–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "rel008",
+      "date": "2027-01-03",
+      "time": "5:30–10 PM",
+      "schedule_status": "organizer_listed",
+      "rule": "official_2026_schedule"
+    }
+  ]
+}
