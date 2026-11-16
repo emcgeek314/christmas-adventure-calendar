@@ -519,7 +519,7 @@ function getMedallionSVG(cats, isCranberry) {
 
 function extractPriceBadge(notes) {
   if (!notes) return '';
-  if (/\bfree\b/i.test(notes) && !/free parking/i.test(notes)) {
+  if (/free/i.test(notes) && !/free parking/i.test(notes)) {
     const m = notes.match(/\$\d+(?:\.\d{2})?(?:\/[a-z]+)?/i);
     return m ? `Free entry · ${m[0]} tour/tasting` : 'Free Admission';
   }
@@ -745,6 +745,8 @@ function renderCard(e, contextTime, contextDateLabel) {
       <button class="pill-btn${isSaved ? ' saved' : ''}" onclick="toggleSave('${esc(e.id)}')" aria-pressed="${isSaved}">
         ${isSaved ? '♥ Saved' : '★ Save'}${count > 0 ? ` (${count})` : ''}
       </button>
+      <button class="pill-btn" onclick="openCalendarModal('${esc(e.id)}', '${esc(e.name).replace(/'/g, "\\'")}', '${esc(e.start)}', '${esc(e.end || e.start)}', '${esc(e.time || '')}', '${esc(e.venue || '').replace(/'/g, "\\'")}', '${esc(e.city)}')">📅 Cal</button>
+      <button class="pill-btn" onclick="openCalendarModal('${esc(e.id)}', '${esc(e.name).replace(/'/g, "\\'")}', '${esc(e.start)}', '${esc(e.end || e.start)}', '${esc(e.time || '')}', '${esc(e.venue || '').replace(/'/g, "\\'")}', '${esc(e.city)}')">📅 Cal</button>
     </div>
 
     ${e.url ? `<a class="ext-link" href="${esc(e.url)}" target="_blank" rel="noopener noreferrer">Official Details ↗</a>` : ''}
@@ -854,8 +856,11 @@ $('resetBtn').onclick = () => {
 };
 
 $('shareSavedBtn').onclick = async () => {
-  const list = E.filter(e => mySaved.has(e.id)).map(e => `• ${e.name} (${e.city}) — ${pretty(e.start)}`).join('\n');
-  const text = list ? `🎄 My 2026 St. Louis Christmas Adventure List:\n\n${list}` : 'No events saved yet!';
+  const list = E.filter(e => mySaved.has(e.id)).map(e => `• ${e.name} (${e.city}) — ${pretty(e.start)}`).join('
+');
+  const text = list ? `🎄 My 2026 St. Louis Christmas Adventure List:
+
+${list}` : 'No events saved yet!';
   try {
     await navigator.clipboard.writeText(text);
     $('shareSavedBtn').textContent = '✓ Copied!';
@@ -888,7 +893,47 @@ async function initCalendar() {
   }
 }
 
+
+let activeEvent = null;
+function openCalendarModal(id, name, start, end, time, venue, city) {
+    activeEvent = { name, start, end, time, venue, city };
+    document.getElementById('modalEventTitle').innerText = `Add: ${name}`;
+    document.getElementById('modalDateInput').value = start;
+    document.getElementById('modalDateInput').min = start;
+    document.getElementById('modalDateInput').max = end;
+    document.getElementById('calModal').style.display = 'flex';
+}
+function closeModal() {
+    document.getElementById('calModal').style.display = 'none';
+}
+function addToCalendarConfirmed() {
+    const selectedDate = document.getElementById('modalDateInput').value;
+    if (!selectedDate) return;
+    const cleanDate = selectedDate.replace(/-/g, '');
+    const dates = `${cleanDate}T180000Z/${cleanDate}T210000Z`;
+    const text = encodeURIComponent(activeEvent.name);
+    const details = encodeURIComponent(`Time: ${activeEvent.time}\nLocation: ${activeEvent.venue}, ${activeEvent.city}`);
+    const location = encodeURIComponent(`${activeEvent.venue ? activeEvent.venue + ', ' : ''}${activeEvent.city}, MO`);
+    const gcalUrl = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=${text}&dates=${dates}&details=${details}&location=${location}`;
+    window.open(gcalUrl, '_blank');
+    closeModal();
+}
+
 initCalendar();
 </script>
+
+    <!-- Calendar Modal -->
+    <div id="calModal" class="modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.5); justify-content:center; align-items:center; padding:1rem; box-sizing:border-box; z-index:999;">
+        <div class="modal-content" style="background:white; padding:1.5rem; border-radius:12px; width:100%; max-width:400px; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+            <div class="modal-title" id="modalEventTitle" style="font-size:1.2rem; font-weight:bold; margin-bottom:1rem; color:var(--pine);">Add to Calendar</div>
+            <p style="font-size:0.9rem; margin-bottom:0.5rem;">Select the exact date you plan to attend:</p>
+            <input type="date" id="modalDateInput" style="width:100%; padding:0.75rem; font-size:1rem; border:1px solid #ccc; border-radius:6px; margin-bottom:1rem; box-sizing:border-box;">
+            <div class="modal-buttons" style="display:flex; justify-content:flex-end; gap:0.5rem;">
+                <button class="pill-btn" onclick="closeModal()">Cancel</button>
+                <button class="pill-btn saved" onclick="addToCalendarConfirmed()">Add to Google Calendar</button>
+            </div>
+        </div>
+    </div>
+
 </body>
 </html>
