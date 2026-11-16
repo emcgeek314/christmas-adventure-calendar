@@ -612,8 +612,8 @@
       ],
       "time": "Select weekends 10 AM–4 PM",
       "url": "https://visithermann.com/christmas/",
-      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
-      "source_status": "Research lead",
+      "notes": "First two weekends of December; free traditional German Christmas experience with springerle and lebkuchen. Exact 2026 daily hours not independently confirmed.",
+      "source_status": "2026 event researched by user; hours pending",
       "start": "2026-12-05",
       "end": "2026-12-13",
       "event_type": "special"
@@ -695,10 +695,10 @@
         "Wineries & Breweries",
         "Food & Drink"
       ],
-      "time": "See organizer",
+      "time": "Sat Nov 21 10 AM–5 PM; Sun Nov 22 11 AM–4 PM",
       "url": "https://hermannwinetrail.com/wine-trail-events/holiday-fare-wine-trail/",
-      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
-      "source_status": "Research lead",
+      "notes": "$35/adult advance ticket; six winery pairings and souvenir glass, per user-supplied screenshot.",
+      "source_status": "2026 user research; official ticket details to reconfirm",
       "start": "2026-11-21",
       "end": "2026-11-22",
       "event_type": "special"
@@ -851,10 +851,10 @@
         "Historic",
         "Lights"
       ],
-      "time": "Select Fridays/Saturdays",
+      "time": "Times not established",
       "url": "",
-      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
-      "source_status": "Research lead",
+      "notes": "Dec 4, 5, 11, 12; village-only tickets $10; house tour sold out at time of user research; phone registration mentioned. Confirm availability and time.",
+      "source_status": "2026 county parks information researched by user",
       "start": "2026-12-04",
       "end": "2026-12-12",
       "event_type": "special"
@@ -932,15 +932,15 @@
       "id": "evt055",
       "name": "Cottle Village Christmas on Farmstead",
       "city": "Cottleville",
-      "venue": "",
+      "venue": "Cottle Village, 6470 State Route N",
       "categories": [
         "Markets",
         "Family"
       ],
-      "time": "See organizer",
+      "time": "From noon",
       "url": "",
-      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
-      "source_status": "Research lead",
+      "notes": "Free, Nov 28. Santa noon–2 PM, reindeer 1:30–3:30 PM; tastings noon–2 PM. Multiple venues on property; coordinate with Reindeer Room listing.",
+      "source_status": "2026 organizer details supplied by user",
       "start": "2026-11-28",
       "end": "2026-11-28",
       "event_type": "special"
@@ -949,15 +949,15 @@
       "id": "evt056",
       "name": "Farmstead Distillery Reindeer Room",
       "city": "Cottleville",
-      "venue": "",
+      "venue": "Farmstead Distillery at Cottle Village, 6470 State Route N",
       "categories": [
         "Food & Drink",
         "Wineries & Breweries"
       ],
       "time": "11 AM–midnight",
       "url": "",
-      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
-      "source_status": "Research lead",
+      "notes": "Holiday Reindeer Room pop-up, 11 AM–midnight Nov 28. Same property/date as Christmas on Farmstead, but a distinct venue experience; cross-reference evt055.",
+      "source_status": "2026 user research",
       "start": "2026-11-28",
       "end": "2026-11-28",
       "event_type": "special"
@@ -1928,15 +1928,15 @@
       "id": "evt114",
       "name": "Moolah FEZtival of Trees",
       "city": "St. Louis",
-      "venue": "",
+      "venue": "Moolah Shrine Center, 12545 Fee Fee Rd",
       "categories": [
         "Community",
         "Family"
       ],
-      "time": "See organizer",
+      "time": "Nov 21–27 10 AM–8 PM (closed Thanksgiving); Nov 28 10 AM–6 PM",
       "url": "",
-      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
-      "source_status": "Research lead",
+      "notes": "Over 45 decorated trees; $2/adult, children under 12 free; free parking; $1 raffle chances, Santa photos, Santa’s Café. Closed Thanksgiving Day. User supplied organizer screenshot.",
+      "source_status": "2026 organizer details supplied by user",
       "start": "2026-11-21",
       "end": "2026-11-28",
       "event_type": "special"
@@ -1977,17 +1977,17 @@
     },
     {
       "id": "evt117",
-      "name": "Holiday House Tour & Boutique",
-      "city": "St. Louis County",
-      "venue": "",
+      "name": "Lindbergh Holiday House Tour & Boutique",
+      "city": "St. Louis County (Sappington), MO",
+      "venue": "Lindbergh High School, 5000 S Lindbergh Blvd",
       "categories": [
         "Historic",
         "Markets"
       ],
-      "time": "See organizer",
-      "url": "",
-      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
-      "source_status": "Research lead",
+      "time": "House tour 10 AM–4 PM; free boutique 9:30 AM–3 PM",
+      "url": "https://www.lhshousetour.com/",
+      "notes": "Lindbergh High School PTG fundraiser. Ticketed self-guided house tour; free public boutique with 80+ vendors, food, music, Santa and festive décor auction. Distinct from JSC Edwardsville/Glen Carbon house tour.",
+      "source_status": "Official organizer 2026 website verified 2026-11-15",
       "start": "2026-12-06",
       "end": "2026-12-06",
       "event_type": "special"
@@ -2576,17 +2576,17 @@
       "id": "evt153",
       "name": "Mistletoe on Macklind Italian Holiday Pop-Up",
       "city": "St. Louis",
-      "venue": "",
+      "venue": "Collina Eatery, 2130 Macklind Ave",
       "categories": [
         "European & Heritage Christmas",
         "Food & Drink"
       ],
-      "time": "Dates need confirmation",
+      "time": "Select dates; seatings vary",
       "url": "https://www.eventbrite.com/e/mistletoe-on-macklind-tickets-2003483524153",
-      "notes": "Seasonal listing only: confirm exact operating dates with organizer.",
-      "source_status": "Research lead",
-      "start": "2026-12-01",
-      "end": "2026-12-31",
+      "notes": "Italian holiday cocktails and small bites. Starting ticket price $25.42 in user research; group should buy together for seating. Dates: Nov 27, 28, 29; Dec 3, 6, 10, 11, 12, 13, 17, 19, 20. Exact seatings differ by date and must be checked.",
+      "source_status": "2026 user-supplied ticket screenshots; exact seating slots pending",
+      "start": "2026-11-27",
+      "end": "2026-12-20",
       "event_type": "ongoing"
     },
     {
@@ -2702,8 +2702,8 @@
         "Food & Drink"
       ],
       "time": "10 AM–2 PM",
-      "url": "https://ofallon.mo.us/city-calendar",
-      "notes": "Festive cocktails and mocktails for sale, live music and shopping; general admission not specified.",
+      "url": "https://www.ofallonmo.gov/sip-shop",
+      "notes": "Festive cocktails and mocktails, live music, holiday vendors, food and drinks. Admission not confirmed.",
       "source_status": "2026 date listed by organizer",
       "start": "2026-11-21",
       "end": "2026-11-21",
@@ -2926,23 +2926,6 @@
       "event_type": "special"
     },
     {
-      "id": "rel013",
-      "name": "Holiday Sip & Shop",
-      "city": "O’Fallon",
-      "venue": "Krekel Civic Center",
-      "categories": [
-        "Markets",
-        "Food & Drink"
-      ],
-      "time": "10 AM–2 PM",
-      "url": "https://www.ofallonmo.gov/sip-shop",
-      "notes": "Holiday vendors, food and drinks; admission cost not confirmed.",
-      "source_status": "2026 organizer information",
-      "start": "2026-11-21",
-      "end": "2026-11-21",
-      "event_type": "special"
-    },
-    {
       "id": "r3_001",
       "name": "Frisella Snow Sisters Meet-and-Greet",
       "city": "Defiance",
@@ -3139,6 +3122,162 @@
       "start": "2026-12-05",
       "end": "2026-12-05",
       "event_type": "special"
+    },
+    {
+      "id": "new001",
+      "name": "Olde Fashioned Christmas at Washington Farmers’ Market",
+      "city": "Washington",
+      "venue": "Washington Farmers’ Market, 317 W Main St",
+      "categories": [
+        "Community",
+        "Historic",
+        "Food & Drink"
+      ],
+      "time": "3–5 PM",
+      "url": "",
+      "notes": "Free; wagon rides, live reindeer, marshmallows, choirs, brass band, cider, cookie decorating, Santa and Mrs. Claus. Organizer: Washington Area Chamber of Commerce.",
+      "source_status": "User-provided 2026 event information; independently verify before publication",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "event_type": "special"
+    },
+    {
+      "id": "new002",
+      "name": "Washington Craft & Gift Expo",
+      "city": "Washington",
+      "venue": "Elks Lodge 1559, 1459 W 5th St",
+      "categories": [
+        "Markets",
+        "Crafts & Workshops"
+      ],
+      "time": "9 AM–3 PM",
+      "url": "",
+      "notes": "65+ vendors, handmade gifts, decorations, baked goods, candles, jewelry. Admission unconfirmed. Organized by Washington Farmers’ Market and Just Hank’s.",
+      "source_status": "User-provided 2026 event information; independently verify before publication",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "event_type": "special"
+    },
+    {
+      "id": "new003",
+      "name": "Miracle on St. Francois St.",
+      "city": "Florissant",
+      "venue": "Old Town St. Francois Street",
+      "categories": [
+        "Community",
+        "Markets",
+        "Parades",
+        "Lights"
+      ],
+      "time": "1–7 PM",
+      "url": "",
+      "notes": "Free; boutique shopping, live music, parade, tree lighting and shrine holiday tablescapes. User-provided details; verify program.",
+      "source_status": "User-provided 2026 event information; independently verify before publication",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "event_type": "special"
+    },
+    {
+      "id": "new004",
+      "name": "Annual Christmas Candlelight House Tour",
+      "city": "New Haven",
+      "venue": "Historic homes in New Haven",
+      "categories": [
+        "Historic",
+        "Music & Shows"
+      ],
+      "time": "3–7 PM",
+      "url": "",
+      "notes": "$15 house tour; free community choir concert at 3 PM, followed by self-guided candlelit homes. User-provided details.",
+      "source_status": "User-provided 2026 event information; independently verify before publication",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "new005",
+      "name": "JSC Holiday House Tour",
+      "city": "Edwardsville / Glen Carbon, IL",
+      "venue": "Various residences and landmarks",
+      "categories": [
+        "Historic"
+      ],
+      "time": "Noon–4 PM (homepage); event detail says noon–4:30 PM",
+      "url": "https://www.edglenjuniorservice.org/holiday-house-tour.html",
+      "notes": "$30, ages 12+ per user research; self-guided eight-property tour including Prairie-style house. Separate organizer and location from Lindbergh event. Organizer homepage says 4 PM closing; event page says 4:30 PM. Ticket price and property lineup should be reconfirmed before publishing.",
+      "source_status": "Official 2026 organizer dates verified; conflicting closing hours",
+      "start": "2026-12-06",
+      "end": "2026-12-06",
+      "event_type": "special"
+    },
+    {
+      "id": "new006",
+      "name": "Home for the Holidays at O’Fallon Station",
+      "city": "O’Fallon, IL",
+      "venue": "O’Fallon Station",
+      "categories": [
+        "Markets",
+        "Food & Drink",
+        "Music & Shows"
+      ],
+      "time": "4–8 PM (conflicting listings)",
+      "url": "",
+      "notes": "Free; artisan stalls, specialty foods, live performances, late shopping. Another listing says noon–4 PM; verify organizer hours.",
+      "source_status": "User-provided 2026 event information; independently verify before publication",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "event_type": "special"
+    },
+    {
+      "id": "new007",
+      "name": "Lafayette Square Holiday Parlor Tour & Market",
+      "city": "St. Louis",
+      "venue": "Lafayette Square neighborhood",
+      "categories": [
+        "Historic",
+        "Markets"
+      ],
+      "time": "10 AM–4 PM",
+      "url": "",
+      "notes": "Restored Victorian homes, carolers, trolley rides and outdoor market. $45 advance/$55 day-of house tour; market free.",
+      "source_status": "User-provided 2026 event information; independently verify before publication",
+      "start": "2026-12-13",
+      "end": "2026-12-13",
+      "event_type": "special"
+    },
+    {
+      "id": "new008",
+      "name": "The Cellar Chalet at Side Project Cellar",
+      "city": "Maplewood",
+      "venue": "Side Project Cellar, 7373 Marietta Ave",
+      "categories": [
+        "Food & Drink",
+        "Wineries & Breweries"
+      ],
+      "time": "Tue–Thu 3–10 PM; Fri–Sat noon–9 PM; Sun noon–8 PM",
+      "url": "",
+      "notes": "Free entry; no reservations, first-come seating; 21+ after 8 PM. Winter cocktails, barrel-aged beer, whiskey, vintage ski lodge decor, illuminated patio. Closed Mondays, Thanksgiving, Christmas and New Year’s Day. Separate from Polar Patio.",
+      "source_status": "User-provided 2026 event information; independently verify before publication",
+      "start": "2026-11-24",
+      "end": "2027-01-24",
+      "event_type": "ongoing"
+    },
+    {
+      "id": "new009",
+      "name": "Bormio Alpine Christmas Chalet",
+      "city": "St. Peters",
+      "venue": "Bormio (beneath Noto)",
+      "categories": [
+        "European & Heritage Christmas",
+        "Food & Drink"
+      ],
+      "time": "Wed–Sat 4–9 PM; Thursday fondue",
+      "url": "https://www.bormiostl.com/",
+      "notes": "Holiday chalet atmosphere, seasonal cocktails, Alpine food, Thursday Swiss-style fondue. Thursday is preferred visit; reservations encouraged. End date is provisional; confirm with restaurant.",
+      "source_status": "User-provided 2026 event information; independently verify before publication",
+      "start": "2026-11-04",
+      "end": "2026-12-31",
+      "event_type": "ongoing"
     }
   ],
   "occurrences": [
@@ -3328,13 +3467,6 @@
       "event_id": "rel008",
       "date": "2026-11-21",
       "time": "5:30–10:30 PM",
-      "schedule_status": "organizer_listed",
-      "rule": "official_2026_schedule"
-    },
-    {
-      "event_id": "rel013",
-      "date": "2026-11-21",
-      "time": "10 AM–2 PM",
       "schedule_status": "organizer_listed",
       "rule": "official_2026_schedule"
     },
@@ -5990,6 +6122,230 @@
       "time": "5:30–10 PM",
       "schedule_status": "organizer_listed",
       "rule": "official_2026_schedule"
+    },
+    {
+      "event_id": "evt114",
+      "date": "2026-11-21",
+      "time": "10 AM–8 PM",
+      "schedule_status": "user_supplied",
+      "rule": "organizer_screenshot"
+    },
+    {
+      "event_id": "evt114",
+      "date": "2026-11-22",
+      "time": "10 AM–8 PM",
+      "schedule_status": "user_supplied",
+      "rule": "organizer_screenshot"
+    },
+    {
+      "event_id": "evt114",
+      "date": "2026-11-23",
+      "time": "10 AM–8 PM",
+      "schedule_status": "user_supplied",
+      "rule": "organizer_screenshot"
+    },
+    {
+      "event_id": "evt114",
+      "date": "2026-11-24",
+      "time": "10 AM–8 PM",
+      "schedule_status": "user_supplied",
+      "rule": "organizer_screenshot"
+    },
+    {
+      "event_id": "evt114",
+      "date": "2026-11-25",
+      "time": "10 AM–8 PM",
+      "schedule_status": "user_supplied",
+      "rule": "organizer_screenshot"
+    },
+    {
+      "event_id": "evt114",
+      "date": "2026-11-27",
+      "time": "10 AM–8 PM",
+      "schedule_status": "user_supplied",
+      "rule": "organizer_screenshot"
+    },
+    {
+      "event_id": "evt114",
+      "date": "2026-11-28",
+      "time": "10 AM–6 PM",
+      "schedule_status": "user_supplied",
+      "rule": "organizer_screenshot"
+    },
+    {
+      "event_id": "evt050",
+      "date": "2026-12-04",
+      "time": "Time unconfirmed",
+      "schedule_status": "user_researched",
+      "rule": "specified_dates"
+    },
+    {
+      "event_id": "evt050",
+      "date": "2026-12-05",
+      "time": "Time unconfirmed",
+      "schedule_status": "user_researched",
+      "rule": "specified_dates"
+    },
+    {
+      "event_id": "evt050",
+      "date": "2026-12-11",
+      "time": "Time unconfirmed",
+      "schedule_status": "user_researched",
+      "rule": "specified_dates"
+    },
+    {
+      "event_id": "evt050",
+      "date": "2026-12-12",
+      "time": "Time unconfirmed",
+      "schedule_status": "user_researched",
+      "rule": "specified_dates"
+    },
+    {
+      "event_id": "evt041",
+      "date": "2026-11-21",
+      "time": "10 AM–5 PM",
+      "schedule_status": "user_supplied",
+      "rule": "specific_dates"
+    },
+    {
+      "event_id": "evt041",
+      "date": "2026-11-22",
+      "time": "11 AM–4 PM",
+      "schedule_status": "user_supplied",
+      "rule": "specific_dates"
+    },
+    {
+      "event_id": "evt153",
+      "date": "2026-11-27",
+      "time": "See ticketed seating",
+      "schedule_status": "user_researched",
+      "rule": "select_dates"
+    },
+    {
+      "event_id": "evt153",
+      "date": "2026-11-28",
+      "time": "See ticketed seating",
+      "schedule_status": "user_researched",
+      "rule": "select_dates"
+    },
+    {
+      "event_id": "evt153",
+      "date": "2026-11-29",
+      "time": "See ticketed seating",
+      "schedule_status": "user_researched",
+      "rule": "select_dates"
+    },
+    {
+      "event_id": "evt153",
+      "date": "2026-12-03",
+      "time": "See ticketed seating",
+      "schedule_status": "user_researched",
+      "rule": "select_dates"
+    },
+    {
+      "event_id": "evt153",
+      "date": "2026-12-06",
+      "time": "See ticketed seating",
+      "schedule_status": "user_researched",
+      "rule": "select_dates"
+    },
+    {
+      "event_id": "evt153",
+      "date": "2026-12-10",
+      "time": "See ticketed seating",
+      "schedule_status": "user_researched",
+      "rule": "select_dates"
+    },
+    {
+      "event_id": "evt153",
+      "date": "2026-12-11",
+      "time": "See ticketed seating",
+      "schedule_status": "user_researched",
+      "rule": "select_dates"
+    },
+    {
+      "event_id": "evt153",
+      "date": "2026-12-12",
+      "time": "See ticketed seating",
+      "schedule_status": "user_researched",
+      "rule": "select_dates"
+    },
+    {
+      "event_id": "evt153",
+      "date": "2026-12-13",
+      "time": "See ticketed seating",
+      "schedule_status": "user_researched",
+      "rule": "select_dates"
+    },
+    {
+      "event_id": "evt153",
+      "date": "2026-12-17",
+      "time": "See ticketed seating",
+      "schedule_status": "user_researched",
+      "rule": "select_dates"
+    },
+    {
+      "event_id": "evt153",
+      "date": "2026-12-19",
+      "time": "See ticketed seating",
+      "schedule_status": "user_researched",
+      "rule": "select_dates"
+    },
+    {
+      "event_id": "evt153",
+      "date": "2026-12-20",
+      "time": "See ticketed seating",
+      "schedule_status": "user_researched",
+      "rule": "select_dates"
+    },
+    {
+      "event_id": "new001",
+      "date": "2026-11-29",
+      "time": "3–5 PM",
+      "schedule_status": "user_supplied",
+      "rule": "specified_2026_date"
+    },
+    {
+      "event_id": "new002",
+      "date": "2026-11-21",
+      "time": "9 AM–3 PM",
+      "schedule_status": "user_supplied",
+      "rule": "specified_2026_date"
+    },
+    {
+      "event_id": "new003",
+      "date": "2026-11-28",
+      "time": "1–7 PM",
+      "schedule_status": "user_supplied",
+      "rule": "specified_2026_date"
+    },
+    {
+      "event_id": "new004",
+      "date": "2026-12-06",
+      "time": "3–7 PM",
+      "schedule_status": "user_supplied",
+      "rule": "specified_2026_date"
+    },
+    {
+      "event_id": "new005",
+      "date": "2026-12-06",
+      "time": "Noon–4 PM (homepage); event detail says noon–4:30 PM",
+      "schedule_status": "user_supplied",
+      "rule": "specified_2026_date"
+    },
+    {
+      "event_id": "new006",
+      "date": "2026-12-12",
+      "time": "4–8 PM (conflicting listings)",
+      "schedule_status": "user_supplied",
+      "rule": "specified_2026_date"
+    },
+    {
+      "event_id": "new007",
+      "date": "2026-12-13",
+      "time": "10 AM–4 PM",
+      "schedule_status": "user_supplied",
+      "rule": "specified_2026_date"
     }
   ]
 }
