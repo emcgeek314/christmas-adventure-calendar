@@ -61,10 +61,11 @@ header{
 
 .fav-pill-btn-wrap{display:inline-flex;align-items:center;gap:6px;position:relative}
 .top-fav-btn{
-  display:inline-flex;align-items:center;gap:0px;
+  display:inline-flex;align-items:center;gap:5px;
   background:#fff;border:1.5px solid var(--gold);color:var(--pine);
-  font:inherit;font-size:11.5px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;
-  padding:6px 14px;border-radius:99px;cursor:pointer;
+  font:inherit;font-size:11px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;
+  padding:5px 10px;border-radius:99px;cursor:pointer;
+  white-space:nowrap;
   box-shadow:0 2px 8px rgba(185,140,62,.15);
   transition:all .15s ease;
 }
@@ -356,7 +357,7 @@ footer{
     <div class="top-utility-bar">
       <span class="sync-pill" id="syncStatus"><span class="sync-dot" id="syncDot"></span> <span id="syncText">Connecting live votes…</span></span>
       <div class="fav-pill-btn-wrap">
-        <button class="top-fav-btn" id="topFavBtn"><span class="heart">♥</span> Crowd Favorites (<span id="topFavCount">0</span>)</button>
+        <button class="top-fav-btn" id="topFavBtn"><span class="heart">♥</span> Crowd Favorites(<span id="topFavCount">0</span>)</button>
         <button class="info-tooltip-btn" title="How Crowd Favorites work">i<div class="tooltip-popup"><strong>♥ Crowd Favorites:</strong> Ranked live by group saves across all devices. Tap ★ Save on any card to vote!</div></button>
       </div>
     </div>
@@ -425,7 +426,7 @@ footer{
 </main>
 
 <footer>
-  Hand-researched and custom-coded from scratch by Ellen with Gemini &amp; ChatGPT on a lazy Sunday • 2026 Holiday Season.<br>
+  Hand-researched and custom-coded from scratch by Ellen with Gemini &amp; ChatGPT • 2026 Holiday Season.<br>
   <span style="font-size:11.5px;color:#6b7c71"><em>Note: Child-focused events have been intentionally excluded to keep this guide curated for adults, couples, and friends. Always verify hours &amp; tickets with organizers before heading out.</em></span>
 </footer>
 
