@@ -428,7 +428,7 @@
       "source_status": "2026 listed by tourism site",
       "start": "2026-11-27",
       "end": "2026-12-12",
-      "event_type": "special"
+      "event_type": "ongoing"
     },
     {
       "id": "evt026",
@@ -1939,7 +1939,7 @@
       "source_status": "2026 organizer details supplied by user",
       "start": "2026-11-21",
       "end": "2026-11-28",
-      "event_type": "special"
+      "event_type": "ongoing"
     },
     {
       "id": "evt115",
@@ -2606,23 +2606,6 @@
       "start": "2026-11-10",
       "end": "2026-12-10",
       "event_type": "ongoing"
-    },
-    {
-      "id": "evt156",
-      "name": "Christmas Tree Farm Opening at Eckert\u2019s",
-      "city": "Belleville",
-      "venue": "Eckert\u2019s Belleville Farm, 951 S. Green Mount Rd.",
-      "categories": [
-        "Family",
-        "Community"
-      ],
-      "time": "Generally 9 AM\u20134:30 PM",
-      "url": "https://eckerts.com/christmas-tickets/",
-      "notes": "Cut-your-own Christmas trees Nov 21\u2013Dec 20, generally 9 AM\u20134:30 PM. Breakfast with Santa on Saturdays and Sundays 8 AM\u2013noon; separate activity, check tickets.",
-      "source_status": "2026 user-supplied event-specific source; confirmation not independently rechecked",
-      "start": "2026-11-21",
-      "end": "2026-12-20",
-      "event_type": "special"
     },
     {
       "id": "evt157",
